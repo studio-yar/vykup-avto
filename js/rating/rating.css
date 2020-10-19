@@ -1,0 +1,36 @@
+.star {
+	background-image: url(img/grey-star-n.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	display: block;
+	width: 32px;
+	height: 30px;
+	line-height: 16px;
+	float: left;
+	cursor: pointer;
+	zoom: 1;
+	padding: 0 5px;
+	box-sizing: content-box;
+	background-size: contain;
+}
+.fullStar {
+	background-position: center;
+	background-image: url(img/gold-star.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+.stars {
+	overflow:hidden;
+}
+.tmp_es {
+	background-image: url(img/grey-star-n.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+.tmp_fs {
+	background-position: center;
+	background-image: url(img/gold-star.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+}
